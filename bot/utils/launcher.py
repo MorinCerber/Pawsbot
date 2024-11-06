@@ -15,17 +15,7 @@ from bot.core.registrator import register_sessions
 
 start_text = """
 
-🎨️Github - https://github.com/YarmolenkoD/paws
-
-My other bots:
-
-💩Boinkers - https://github.com/YarmolenkoD/boinkers
-🎨Notpixel - https://github.com/YarmolenkoD/notpixel
-
-🚀 HIDDEN CODE MARKET 🚀
-
-🐾 PAWS WALLET CONNECTOR - https://t.me/hcmarket_bot?start=referral_355876562-project_1016
-🎨 NOTPIXEL PREMIUM - https://t.me/hcmarket_bot?start=referral_355876562-project_1015
+PawsBot by @Morinb2b
 
 Select an action:
 
